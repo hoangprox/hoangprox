@@ -6,11 +6,9 @@
 ### Xin chào 👋, tớ là **Trần Minh Hoàng** 👋
 
 - 🎓 Sinh viên ngành Kỹ Thuật Điện tại Hutech
-- 💻 Mục đích:
-- Học hỏi thêm về mảng lập trình
-- 
+- 💻 Mục đích: Học hỏi thêm về mảng lập trình
 ---
-## 📬 Liên hệ mình qua:
+## 📬 Liên hệ:
 - 📧 Gmail: [hoangtranminh205@gmail.com](mailto:hoangtrannminh205@gmail.com)
 - 💬 Facebook: [Trần Minh Hoàng](https://facebook.com/hoangtranminh205)
-- 📱 Điện thoại: [0352085948]
+- 📱 Điện thoại: 0352085948
