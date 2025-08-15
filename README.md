@@ -1,8 +1,6 @@
 
 <h1 align="center">Rất vui khi bạn ghé thăm ^ ^</h1>
 
----
-
 ### Xin chào 👋, tớ là **Trần Minh Hoàng** 👋
 
 - 🎓 Sinh viên ngành Kỹ Thuật Điện tại Hutech
